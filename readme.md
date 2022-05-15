@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](NA)
+- 🔭 I’m currently working on Management System Project
 
 - 🌱 I’m currently learning **Express.js, Angular**
 
-- 👨‍💻 All of my projects are available at [NA soon](NA soon)
-
-- 📝 I regularly write articles on [NA soon](NA soon)
+- 👨‍💻 All of my projects are available at https://vedantdev.tech/ (soon)
 
 - 📫 How to reach me **vedantsapalkar99@gmail.com**
-
-- 📄 Know about my experiences [NA soon](NA soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
