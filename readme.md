@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **vedantsapalkar99@gmail.com**
 
-<h3 align="left">Support:</h3>
-
-</a><a href="https://ko-fi.com/https://ko-fi.com/vedant"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/vedant" /></a></p><br><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant8177&theme=dark&show_icons=true&locale=en&layout=compact" alt="vedant8177" /></p>
 
 # 💻 Tech Stack:
@@ -32,9 +28,6 @@
 </a>
 <a href="https://dev.to/https://dev.to/vedant8177" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@https://hashnode.com/@Vedantssj" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/https://codepen.io/vedant8177" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
@@ -56,19 +49,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
 <br/>  
 
 <div align="center">
