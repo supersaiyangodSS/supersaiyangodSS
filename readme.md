@@ -37,16 +37,7 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/> 
-
-<br/>  
+<br/>
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/vedantkale" target="_blank" style="display: inline-block;">
@@ -62,7 +53,3 @@
                     align="center"
                 />
             </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
