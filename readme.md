@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://kale.vedantdev.in/](https://kale.vedantdev.in/)
+- 👨‍💻 All of my projects are available at [https://vedantdev.in/](https://vedantdev.in/)
 
 - 📝 I regularly write articles on [https://blog.vedantdev.in/](https://blog.vedantdev.in/)
 
