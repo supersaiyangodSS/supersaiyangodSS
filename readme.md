@@ -35,7 +35,6 @@
 </a>  
 </div>  
 <br/>
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/vedantkale" target="_blank" style="display: inline-block;">
                 <img
