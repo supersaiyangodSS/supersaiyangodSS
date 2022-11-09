@@ -42,4 +42,11 @@
                     align="center"
                 />
             </a>
+             <a href="https://ko-fi.com/vedant
+" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
+                    align="center"
+                />
+            </a>
        </div>
