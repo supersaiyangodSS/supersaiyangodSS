@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://blog.vedantdev.in/](https://blog.vedantdev.in/)
 
-- 💬 Ask me about **JavaScript, Node.js, and React**
-
 - 📫 How to reach me: **vedantsapalkar99@gmail.com**
 
 ## Tech Stack
