@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vedantdev.in/](https://vedantdev.in/)
 
-- 📝 I regularly write articles on [https://blog.vedantdev.in/](https://blog.vedantdev.in/)
-
 - 📫 How to reach me: **vedantsapalkar99@gmail.com**
 
 ## Tech Stack
