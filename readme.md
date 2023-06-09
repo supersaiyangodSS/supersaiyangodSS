@@ -12,7 +12,7 @@
   </a>  
 </div>
 
-- 👨‍💻 All of my projects are available at [https://vedantdev.in/](https://vedantdev.in/)
+- 👨‍💻 All of my projects are available at [**https://vedantdev.in/**](https://vedantdev.in/)
 
 - 📫 How to reach me: **vedantsapalkar99@gmail.com**
 
