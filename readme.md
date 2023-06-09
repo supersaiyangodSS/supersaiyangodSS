@@ -10,15 +10,6 @@
   <a href="https://dribbble.com/vedantssj" target="_blank">
     <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
   </a>  
-</div>  
-<br/>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/vedantkale" target="_blank" style="display: inline-block;">
-    <img
-      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-      align="center"
-    />
-  </a>
 </div>
 
 - 👨‍💻 All of my projects are available at [https://vedantdev.in/](https://vedantdev.in/)
