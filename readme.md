@@ -52,7 +52,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant8177&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant8177&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 
 
 <p align="center">
