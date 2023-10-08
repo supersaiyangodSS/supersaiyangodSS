@@ -70,8 +70,5 @@
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 
-<p align="center">
-[![](https://visitcount.itsvg.in/api?id=supersaiyangodSS&icon=8&color=0)](https://visitcount.itsvg.in)
-</p>
-
+[![Visit Count](https://visitcount.itsvg.in/api?id=supersaiyangodSS&icon=8&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=supersaiyangodSS&theme=nord&hide_border=false)<br/>
