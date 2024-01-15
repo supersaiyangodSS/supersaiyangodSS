@@ -68,7 +68,5 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)](https://git.io/streak-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
