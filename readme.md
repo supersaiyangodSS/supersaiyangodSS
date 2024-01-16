@@ -68,8 +68,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats
-<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 [![vedantSSJ profile views](https://u8views.com/api/v1/github/profiles/81308923/views/day-week-month-total-count.svg)](https://u8views.com/github/supersaiyangodSS)
-</div>
