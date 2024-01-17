@@ -68,6 +68,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
+![](https://www.codewars.com/users/vedant8177/badges/large)
+
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
