@@ -8,12 +8,9 @@
   <a href="https://www.linkedin.com/in/vedant-kale-dev/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://dribbble.com/vedantssj" target="_blank">
-    <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=flat-square&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-  </a>  
 </div>
 
-- 👨‍💻 All of my projects are available at [**https://vedantdev.netlify.app/**](https://vedantdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [**https://vedantdev.netlify.app/**](https://vedantjs.netlify.app/)
 
 - 📫 How to reach me: **vedantsapalkar99@gmail.com**
 
@@ -75,4 +72,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=supersaiyangodSS&bg_color=1a1a1a&color=5fcead&line=5fcead&point=85ffda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
-<img src="https://ssr-contributions-svg.vercel.app/_/supersaiyangodss?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fall&format=html&weeks=30&theme=native&dark=true">
