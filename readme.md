@@ -68,7 +68,8 @@
 ![](https://www.codewars.com/users/vedantSSJ/badges/large) 
 
 ## GitHub Stats
+<div style="text-align: center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=supersaiyangodSS&bg_color=1a1a1a&color=5fcead&line=5fcead&point=85ffda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+</div>
