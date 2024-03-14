@@ -1,4 +1,3 @@
-<img style="border-radius: 20px;" src="https://raw.githubusercontent.com/supersaiyangodSS/assets/main/JS.gif"/>
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <div align="center">
