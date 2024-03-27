@@ -9,7 +9,6 @@
   </a>
 </div>
 <div align="center">
-  [**https://vedantdev.netlify.app/**](https://vedantjs.netlify.app/)
   <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a>
   <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
 </div>
