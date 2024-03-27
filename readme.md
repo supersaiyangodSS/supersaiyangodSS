@@ -8,10 +8,11 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-- 👨‍💻 All of my projects are available at [**https://vedantdev.netlify.app/**](https://vedantjs.netlify.app/)
-
-- 📫 How to reach me: **vedantsapalkar99@gmail.com**
+<div align="center">
+  [**https://vedantdev.netlify.app/**](https://vedantjs.netlify.app/)
+  <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a>
+  <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
+</div>
 
 ## Tech Stack
 
