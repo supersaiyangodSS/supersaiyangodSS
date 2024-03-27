@@ -8,7 +8,7 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-<div align="center">
+<div>
   <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a>
   <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
 </div>
