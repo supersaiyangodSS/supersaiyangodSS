@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <div align="center">
-  <a href="https://codepen.io/vedant8177" target="_blank">
-    <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=flat-square&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/vedant-kale-dev/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div>
-<div align="center">
   <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a><br/>
   <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
 </div>
@@ -92,7 +84,7 @@
 ## GitHub Stats
 <div style="text-align: center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
 
