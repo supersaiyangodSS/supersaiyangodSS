@@ -74,9 +74,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<br/>
-![](https://www.codewars.com/users/vedantSSJ/badges/large) 
-
 
 ## GitHub Stats
 <div style="text-align: center">
