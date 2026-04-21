@@ -3,7 +3,16 @@
 <div align="center">
   <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a><br/>
   <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
+  <p>I build scalable backend systems using Node.js, Express, and MongoDB.</p>
+
+Focused on:
+- REST API design
+- Authentication & authorization
+- Clean architecture (routes → controllers → services)
+- Database design & performance
 </div>
+
+
 
 ### Backend:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
