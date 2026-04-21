@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A full stack developer</h3>
 <div align="center">
-  <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a><br/>
-  <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a><br>
+  <a href="https://vedantjs.netlify.app" target="_blank">vedantjs.netlify.app</a><br/>
+  <a href="mailto:vedantsapalkar99@gmail.com" target="_blank">vedantsapalkar99@gmail.com</a><br>
   <p>I build scalable backend systems using Node.js, Express</p>
 
 Focused on<br>
