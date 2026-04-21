@@ -2,8 +2,8 @@
 <h3 align="center">A full stack developer</h3>
 <div align="center">
   <a href="https://vedantjs.netlify.app">vedantjs.netlify.app</a><br/>
-  <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
-  <p>I build scalable backend systems using Node.js, Express, and MongoDB.</p>
+  <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a><br>
+  <p>I build scalable backend systems using Node.js, Express</p>
 
 Focused on<br>
 REST API design<br>
