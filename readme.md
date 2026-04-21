@@ -5,10 +5,10 @@
   <a href="mailto:vedantsapalkar99@gmail.com">vedantsapalkar99@gmail.com</a>
   <p>I build scalable backend systems using Node.js, Express, and MongoDB.</p>
 
-Focused on
-<li>REST API design</li>
-Authentication & authorization
-Clean architecture (routes → controllers → services)
+Focused on<br>
+REST API design<br>
+Authentication & authorization<br>
+Clean architecture<br>
 Database design & performance
 </div>
 
