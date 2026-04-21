@@ -6,7 +6,7 @@
   <p>I build scalable backend systems using Node.js, Express, and MongoDB.</p>
 
 Focused on
-REST API design
+<li>REST API design</li>
 Authentication & authorization
 Clean architecture (routes → controllers → services)
 Database design & performance
