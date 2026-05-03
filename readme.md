@@ -10,39 +10,71 @@ REST API design<br>
 Authentication & authorization<br>
 Clean architecture<br>
 Database design & performance
+
 </div>
 
-### Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-### Databases and Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Frontend:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Servers, Deploys and Tools:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display:flex flex-wrap:wrap">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
+</div>
+
+### Backend and Database:
+
+<div style="display:flex flex-wrap:wrap">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" />
+</div>
+
+### Tools:
+
+<div style="display:flex flex-wrap:wrap">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg" />
+</div>
 
 ## GitHub Stats
+
 <div style="text-align: center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
 
 </div>
+
+[![Codewars Badge](https://www.codewars.com/users/vedantSSJ/badges/large)](https://www.codewars.com/users/vedantSSJ)
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=supersaiyangodss)
+
+# My skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,d3)](https://skillicons.dev)
+
+## Backend & DB
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,mysql,postgres)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,postman,vscodium,webstorm,bash,cloudflare,figma,git,github,netlify,notion,npm,pnpm,)](https://skillicons.dev)
+test
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supersaiyangodss&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supersaiyangodss&theme=apprentice)
