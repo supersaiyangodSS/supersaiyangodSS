@@ -51,30 +51,15 @@ Database design & performance
 
 ## GitHub Stats
 
-<div style="text-align: center">
+<div style="text-align:center; display:flex; flex-direction:column; justify-content:center; align-items:center;">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supersaiyangodSS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
 
-</div>
-
 [![Codewars Badge](https://www.codewars.com/users/vedantSSJ/badges/large)](https://www.codewars.com/users/vedantSSJ)
-
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=supersaiyangodss)
-
-# My skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,d3)](https://skillicons.dev)
-
-## Backend & DB
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,mongodb,mysql,postgres)](https://skillicons.dev)
-
-## Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,postman,vscodium,webstorm,bash,cloudflare,figma,git,github,netlify,notion,npm,pnpm,)](https://skillicons.dev)
-test
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supersaiyangodss&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supersaiyangodss&theme=apprentice)
+
+</div>
