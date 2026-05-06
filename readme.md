@@ -53,9 +53,9 @@ Database design & performance
 
 <div style="text-align:center; display:flex; flex-direction:column; justify-content:center; align-items:center;">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=supersaiyangodSS)]()<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vedantkale-node)]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkale-node&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
-![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vedantkale-node&style=for-the-badge)
 
 [![Codewars Badge](https://www.codewars.com/users/vedantSSJ/badges/large)](https://www.codewars.com/users/vedantSSJ)
 
